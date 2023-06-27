@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+seaborn
+geopandas
+numpy
+statsmodels
+scipy
+scikit-learn
+eli5
